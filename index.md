@@ -4,3 +4,8 @@
 ###### This is an <h6> header (smallest)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+$ git init
+Initialized empty Git repository in /Users/skilld/Projects/recipe-repository/.git/
+´´´
